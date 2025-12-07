@@ -1,0 +1,101 @@
+ h1 {
+     text-align: center;
+     color: red;
+ }
+
+ h3 {
+     text-align: center;
+
+ }
+
+ .negrita {
+     text-align: center;
+     font-weight: bolder;
+ }
+
+ .table1 {
+     width: 21%;
+ }
+
+ .table2 {
+     width: 24%;
+ }
+
+ .tabla3 {
+     margin: 20px auto;
+     width: 25%;
+     font-size: 1em;
+ }
+
+ h2 {
+     color: red;
+ }
+
+ .color_negro {
+     font-weight: bolder;
+     text-align: center;
+ }
+
+ p {
+     text-align: center;
+ }
+
+ .tablas1 {
+     width: 25%;
+     margin: 25px auto;
+ }
+
+ .tablas2 {
+     width: 25%;
+     margin: 25px auto;
+ }
+
+ .tablas3 {
+     width: 30%;
+     margin: 0px auto;
+    border-collapse: separate;
+     border-spacing: 0px;
+     border-color: 1px solid black;
+     
+ }
+  .tablas4 {
+     width: 30%;
+     margin: 0px auto;
+     border-collapse: collapse;
+     border-color: 1px solid black;
+      border-spacing: 1px 1px;
+     margin-top: 5px;
+ }
+
+ /* .tablas3 td{
+    padding: 10px;
+    text-align: center;
+} */
+ .tablas1 td {
+     text-align: center;
+ }
+
+ .principal {
+     width: 120px;
+ }
+
+ .img {
+     width: 100%;
+ }
+
+ .tablas3 td {
+     width: 150px;
+     text-align: center;     
+     padding: 15px;
+     border-color: black;
+ }
+  .tablas4 td {
+     width: 150px;
+     text-align: center;     
+     padding: 15px;
+     border-color: black;
+ }
+ .t{
+    width: 85px!important;
+   
+ }
