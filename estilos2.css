@@ -2,7 +2,10 @@
      text-align: center;
      color: red;
  }
-
+h2{
+  text-align: center;
+     color: red;
+  }
  h3 {
      text-align: center;
 
@@ -99,3 +102,4 @@
     width: 85px!important;
    
  }
+
